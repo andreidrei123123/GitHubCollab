@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <title>Login</title>
-  <link rel="stylesheet" href="assets/styles.css" />
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <main>
@@ -15,6 +15,6 @@
       <button type="submit">Sign in</button>
     </form>
   </main>
-  <script src="assets/app.js"></script>
+  <script src="app.js"></script>
 </body>
 </html>
